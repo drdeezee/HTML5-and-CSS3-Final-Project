@@ -1,0 +1,6 @@
+http://www.example.com/index.html
+http://www.example.com/articles.html
+http://www.example.com/leading-raid-teams.html
+http://www.example.com/resources.html
+http://www.example.com/contact.html
+http://www.example.com/email-form.html
