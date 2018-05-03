@@ -1,4 +1,4 @@
-# HTML5-and-CSS3-Final-Project
+# Victory Through Leadership
 Final project for HTML5 and CSS3 Course
 
 This is the code repository for the final project of an HTML5 and CSS3 course at Southwest Tech in Cedar City, UT based on the HTML5 and CSS3 Complete Second Edition by Sasha Vodnik.
